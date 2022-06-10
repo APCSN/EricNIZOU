@@ -53,7 +53,7 @@
     }
 
     body.carte .nom {
-        font-size: 1.7em;
+        font-size: 1.8em;
         font-weight: 700;
         padding-top : 5%;
     }
@@ -105,7 +105,7 @@
 
     body.carte .bouton {
         margin: 0 20px;
-        padding: 5%;
+        padding: 10px;
     }
 
     body.carte .bouton .bouton-inner-site {
