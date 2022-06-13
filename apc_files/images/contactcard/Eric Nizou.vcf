@@ -3,6 +3,9 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 15.5//EN
 N:Nizou;Eric;;;
 FN:Eric Nizou
-EMAIL;type=INTERNET;type=HOME;type=pref:eric@atoutpretconseil.fr
+ORG:Atout Prêt Conseil;
+EMAIL;type=INTERNET;type=HOME;type=pref:contact@atoutpretconseil.fr
 TEL;type=pref:07.86.96.38.07
+item1.URL;type=pref:https://www.atoutpretconseil.fr
+item1.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
